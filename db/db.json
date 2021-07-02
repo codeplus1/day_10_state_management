@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "Apple",
+      "price": "200",
+      "unit": "kg",
+      "image": "https://pngimg.com/uploads/apple/apple_PNG12405.png",
+      "description": "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today."
+    },
+    {
+      "name": "Orange",
+      "price": "250",
+      "unit": "kg",
+      "image": "https://pngimg.com/uploads/orange/orange_PNG791.png",
+      "description": "The orange is the fruit of various citrus species in the family Rutaceae; it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange"
+    },
+    {
+      "name": "Mango",
+      "price": "100",
+      "unit": "kg",
+      "image": "https://pngimg.com/uploads/mango/mango_PNG9180.png",
+      "description": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India."
+    },
+    {
+      "name": "Grapes",
+      "price": "155",
+      "unit": "kg",
+      "image": "https://pngimg.com/uploads/grape/grape_PNG536.png",
+      "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, grape juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil."
+    },
+    {
+      "name": "Banana",
+      "price": "75",
+      "unit": "Dozen",
+      "image": "http://pngimg.com/uploads/banana/banana_PNG817.png",
+      "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called , distinguishing them from dessert bananas."
+    },
+    {
+      "name": "Pine Apple",
+      "price": "250",
+      "unit": "Piece",
+      "image": "http://pngimg.com/uploads/pineapple/pineapple_PNG2753.png",
+      "description": "The pineapple is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries."
+    }
+  ],
+  "users": [
+    {
+      "name": "Saroj Yadav",
+      "email": "saroj.np@gmail.com",
+      "password": "Password",
+      "id": 1
+    }
+  ]
+}
